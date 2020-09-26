@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "PROGMOB2020"
